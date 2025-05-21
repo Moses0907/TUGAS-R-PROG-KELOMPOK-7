@@ -17,13 +17,3 @@ Aplikasi ini dibuat menggunakan R dan Shiny untuk membantu mendeteksi dini tingk
 1. Clone repositori ini:
 ```bash
 git clone https://github.com/username/early-stress-detection-app.git
-
-
----
-
-### 🎁 Tambahan (Opsional)
-- Gunakan `DESCRIPTION` file seperti pada package R jika ingin lebih rapi.
-- Tambahkan badge GitHub seperti:
-  ```markdown
-  ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-  ![Shiny](https://img.shields.io/badge/Shiny-App-blue)
