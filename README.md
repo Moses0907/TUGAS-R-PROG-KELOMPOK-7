@@ -11,9 +11,9 @@ Aplikasi ini dibuat menggunakan R dan Shiny untuk membantu mendeteksi dini tingk
 ## 🛠️ Teknologi yang Digunakan
 - [R](https://cran.r-project.org/)
 - [Shiny](https://shiny.posit.co/)
-- Paket tambahan: `tidyverse`, `shinydashboard`, `ggplot2`, dll.
+- Paket tambahan: `leaflet`, `shinyjs`, `bslib`, `shinyWidgets`,dll.
 
-## 📦 Instalasi dan Menjalankan
+## 📦 Bagaimana cara menjalankan program ini?
 1. Clone repositori ini:
 ```bash
 git clone https://github.com/username/early-stress-detection-app.git
